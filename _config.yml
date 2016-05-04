@@ -1,0 +1,28 @@
+name: Happy Camino
+favicon: null
+layout_spectrum: 0.6164738920051605
+typography_spectrum: 0.9853865248151124
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6085028366651386
+  lightness: 0.3456192275043577
+  saturation: 0.544061130611226
+  rhythmicContrast: 0.35488048335537314
+purpose: []
